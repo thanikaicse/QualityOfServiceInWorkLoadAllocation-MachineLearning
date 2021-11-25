@@ -1,0 +1,14 @@
+@relation CLOUD DATA
+
+@attribute v_mean NUMERIC
+@attribute v_max NUMERIC
+@attribute v_min NUMERIC
+@attribute v_mean distribution NUMERIC
+@attribute v_contrast NUMERIC
+@attribute v_entropy NUMERIC
+@attribute v_second angular momentum NUMERIC
+@attribute IR_mean NUMERIC
+@attribute IR_max NUMERIC
+@attribute IR_min NUMERIC
+
+@data
